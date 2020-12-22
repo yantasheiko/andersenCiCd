@@ -18,7 +18,7 @@ public class TestServlet extends HttpServlet {
         resp.setContentType("text/html; charset = utf-8");
         resp.setCharacterEncoding("UTF-8");
 
-        String str = "Hello on CentOs from Jenkins";
+        String str = "Hello on CentOs from Jenkins(second commit)";
 
         req.setAttribute("hello", str);
         getServletContext().getRequestDispatcher("/jsp/hello.jsp").forward(req, resp);
