@@ -13,7 +13,7 @@
     <div class="container-fluid">
         <!--change this fucking sh**t-->
         <a class="navbar-brand" href="/andersenCiCd/test">Andersen</a>
-        <form action="/registration" method="post">
+        <form action="registration" method="post">
             <table>
                 <tr>
                     <td>
