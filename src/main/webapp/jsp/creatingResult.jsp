@@ -10,7 +10,7 @@
 <div>
     <h1>User was created</h1>
     <div class="alert alert-secondary" role="alert">
-        Go to user list <a href="/andersenCiCd/test">Click here</a>
+        Go back to user list <a href="/andersenCiCd/test">Click here</a>
     </div>
 </div>
 </body>
