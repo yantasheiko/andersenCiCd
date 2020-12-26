@@ -9,7 +9,9 @@
 <body>
 <div>
     <h1>User was created</h1>
-    Go to user list <a href="/andersenCiCd/test">Click here</a>
+    <div class="alert alert-secondary" role="alert">
+        Go to user list <a href="/andersenCiCd/test">Click here</a>
+    </div>
 </div>
 </body>
 </html>
